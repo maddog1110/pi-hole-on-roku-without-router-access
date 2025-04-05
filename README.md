@@ -26,7 +26,7 @@ This project intercepts DNS queries from your Roku device and redirects them thr
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/pi-hole-on-roku-without-router-access.git
+   git clone https://github.com/maddog1110/pi-hole-on-roku-without-router-access.git
    cd pi-hole-on-roku-without-router-access
    ```
 
