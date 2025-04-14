@@ -32,7 +32,7 @@ This tool is intended **only** to improve ad-blocking and privacy on your own de
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/pi-hole-on-roku-without-router-access.git
+   git clone https://github.com/maddog1110/pi-hole-on-roku-without-router-access.git
    cd pi-hole-on-roku-without-router-access
    ```
 
