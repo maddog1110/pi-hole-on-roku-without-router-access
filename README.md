@@ -32,7 +32,7 @@ This tool uses ARP spoofing techniques to intercept DNS queries from your Roku d
 
 1. Clone this repository:
    ```
-   git clone https://github.com/yourusername/pi-hole-on-roku-without-router-access.git
+   git clone https://github.com/maddog1110/pi-hole-on-roku-without-router-access.git
    cd pi-hole-on-roku-without-router-access
    ```
 
